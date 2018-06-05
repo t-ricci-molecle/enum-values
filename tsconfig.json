@@ -13,5 +13,8 @@
         "noLib": false,
         "preserveConstEnums": true,
         "suppressImplicitAnyIndexErrors": true
-    }
+    },
+    "lib": [
+        "es2016"
+    ]
 }
